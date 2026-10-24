@@ -1,13 +1,13 @@
-# Starship Quattro for Omarchy
+# Starship Quattro RS for Omarchy
 
 A midnight-blue night-launch theme pairing a Starship lift-off and an astronaut with a classic Audi rally quattro: deep navy surfaces, ice-cyan accents, silver text, restrained launch-amber highlights, and blue folder icons.
 
-![Starship Quattro theme preview](preview.png)
+![Starship Quattro RS theme preview](preview.png)
 
 ## Install
 
 ```sh
-omarchy theme install https://github.com/MrJazzMan/omarchy-starship-quattro-RS-theme
+omarchy theme install https://github.com/MrJazzMan/omarchy-starship-quattro-rs-theme
 ```
 
 Requires a recent Omarchy that generates application themes from `colors.toml`.
